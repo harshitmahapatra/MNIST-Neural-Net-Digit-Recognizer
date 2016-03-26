@@ -1,4 +1,4 @@
-# MNIST-Neural-Net-Digit-Recognizer
+# MNIST-Neural-Net-Digit-Recognizer using PCA (3.92% Test Error)
 The script is for classification of a subset of MNIST handwritten digits database obtained from the url: http://pjreddie.com/projects/mnist-in-csv/ <br/>
 The procedure followed is as follows:<br/>
 1.The training set was divided into training subset and Cross Validation set by random sampling.<br/>
