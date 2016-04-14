@@ -5,3 +5,5 @@ The procedure followed is as follows:<br/>
 2.Each set was then feature normalized.<br/>
 3.A single hidden layer neural network using package "nnet" was trained on the training subset for various parameter values and corresponding CV set errors were stored.<br/>
 4.The parameter value with least amount of CV set error was selected and was used to make predictions on the test set.<br/>
+
+Please read "Project Summary.pdf" for detailed description.
